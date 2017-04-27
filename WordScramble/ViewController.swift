@@ -78,6 +78,7 @@ class ViewController: UITableViewController {
         
     }
     
+    //submit section
     func submit(answer: String) {
         
         let lowerAnswer = answer.lowercased()
