@@ -12,6 +12,7 @@
 		318602491EB1703B0055F67F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 318602471EB1703B0055F67F /* Main.storyboard */; };
 		3186024B1EB1703B0055F67F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3186024A1EB1703B0055F67F /* Assets.xcassets */; };
 		3186024E1EB1703B0055F67F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3186024C1EB1703B0055F67F /* LaunchScreen.storyboard */; };
+		318602561EB174800055F67F /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 318602551EB174800055F67F /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3186024A1EB1703B0055F67F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3186024D1EB1703B0055F67F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3186024F1EB1703B0055F67F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		318602551EB174800055F67F /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				318602471EB1703B0055F67F /* Main.storyboard */,
 				3186024A1EB1703B0055F67F /* Assets.xcassets */,
 				3186024C1EB1703B0055F67F /* LaunchScreen.storyboard */,
+				318602551EB174800055F67F /* start.txt */,
 				3186024F1EB1703B0055F67F /* Info.plist */,
 			);
 			path = WordScramble;
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3186024E1EB1703B0055F67F /* LaunchScreen.storyboard in Resources */,
+				318602561EB174800055F67F /* start.txt in Resources */,
 				3186024B1EB1703B0055F67F /* Assets.xcassets in Resources */,
 				318602491EB1703B0055F67F /* Main.storyboard in Resources */,
 			);
